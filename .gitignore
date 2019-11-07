@@ -124,3 +124,10 @@ dmypy.json
 
 # IDEA
 .idea/
+
+# Transformers
+**/runs/
+*.json
+*.bin
+*.txt
+*cached*
