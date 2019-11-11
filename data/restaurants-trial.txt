@@ -1,310 +1,100 @@
-text: All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!
-aspectTerm: {'term': 'appetizers', 'polarity': 'positive', 'from': '8', 'to': '18'}
-aspectTerm: {'term': 'salads', 'polarity': 'positive', 'from': '23', 'to': '29'}
-aspectTerm: {'term': 'steak', 'polarity': 'positive', 'from': '49', 'to': '54'}
-aspectTerm: {'term': 'pasta', 'polarity': 'positive', 'from': '82', 'to': '87'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: And really large portions.
-aspectTerm: {'term': 'portions', 'polarity': 'positive', 'from': '17', 'to': '25'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Go inside and you won't want to leave.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Save yourself the time and trouble and skip this one!
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'negative'}
-text: The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
-aspectTerm: {'term': 'sweet lassi', 'polarity': 'positive', 'from': '4', 'to': '15'}
-aspectTerm: {'term': 'lamb chettinad', 'polarity': 'positive', 'from': '41', 'to': '55'}
-aspectTerm: {'term': 'garlic naan', 'polarity': 'positive', 'from': '64', 'to': '75'}
-aspectTerm: {'term': 'rasamalai', 'polarity': 'negative', 'from': '84', 'to': '93'}
-aspectCategory: {'category': 'food', 'polarity': 'conflict'}
-text: Service was quick.
-aspectTerm: {'term': 'Service', 'polarity': 'positive', 'from': '0', 'to': '7'}
-aspectCategory: {'category': 'service', 'polarity': 'positive'}
-text: Oh, don't even let me start with how expensive the bills were!
-aspectTerm: {'term': 'bills', 'polarity': 'negative', 'from': '51', 'to': '56'}
-aspectCategory: {'category': 'price', 'polarity': 'negative'}
-text: Service is top notch.
-aspectTerm: {'term': 'Service', 'polarity': 'positive', 'from': '0', 'to': '7'}
-aspectCategory: {'category': 'service', 'polarity': 'positive'}
-text: The best thing I tasted were the lambc hops.
-aspectTerm: {'term': 'lambc hops', 'polarity': 'positive', 'from': '33', 'to': '43'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Overall I would recommend it and go back again.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I've been here a couple of times and have not been impressed.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'negative'}
-text: Even though its good seafood, the prices are too high.
-aspectTerm: {'term': 'seafood', 'polarity': 'positive', 'from': '21', 'to': '28'}
-aspectTerm: {'term': 'prices', 'polarity': 'negative', 'from': '34', 'to': '40'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'negative'}
-text: In addition, the food is very good and the prices are reasonable.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '17', 'to': '21'}
-aspectTerm: {'term': 'prices', 'polarity': 'positive', 'from': '43', 'to': '49'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: The food is great and authentic.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: I was at Rao's last Wed.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
-text: I recommend the garlic shrimp, okra (bindi), and anything with lamb.
-aspectTerm: {'term': 'garlic shrimp', 'polarity': 'positive', 'from': '16', 'to': '29'}
-aspectTerm: {'term': 'okra (bindi)', 'polarity': 'positive', 'from': '31', 'to': '43'}
-aspectTerm: {'term': 'lamb', 'polarity': 'positive', 'from': '63', 'to': '67'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: The menu was impressive with selections ranging from a burger, to steak, to escargot.
-aspectTerm: {'term': 'menu', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectTerm: {'term': 'burger', 'polarity': 'neutral', 'from': '55', 'to': '61'}
-aspectTerm: {'term': 'steak', 'polarity': 'neutral', 'from': '66', 'to': '71'}
-aspectTerm: {'term': 'escargot', 'polarity': 'neutral', 'from': '76', 'to': '84'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: very good breads as well.
-aspectTerm: {'term': 'breads', 'polarity': 'positive', 'from': '10', 'to': '16'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Anyway, the food is good, the price is right and they have a decent wine list.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '12', 'to': '16'}
-aspectTerm: {'term': 'price', 'polarity': 'positive', 'from': '30', 'to': '35'}
-aspectTerm: {'term': 'wine list', 'polarity': 'positive', 'from': '68', 'to': '77'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: The food was lousy -too sweet or too salty and the portions tiny.
-aspectTerm: {'term': 'food', 'polarity': 'negative', 'from': '4', 'to': '8'}
-aspectTerm: {'term': 'portions', 'polarity': 'negative', 'from': '51', 'to': '59'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: But the coconut rice was good.
-aspectTerm: {'term': 'coconut rice', 'polarity': 'positive', 'from': '8', 'to': '20'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: And the Tom Kha soup was pathetic.
-aspectTerm: {'term': 'Tom Kha soup', 'polarity': 'negative', 'from': '8', 'to': '20'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: The food now is inconsistent.
-aspectTerm: {'term': 'food', 'polarity': 'negative', 'from': '4', 'to': '8'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: Try the crunchy tuna, it is to die for.
-aspectTerm: {'term': 'crunchy tuna', 'polarity': 'positive', 'from': '8', 'to': '20'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Reasonable prices.
-aspectTerm: {'term': 'prices', 'polarity': 'positive', 'from': '11', 'to': '17'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: Everything at Sala Thai is tasty and well-portioned.
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
-aspectTerm: {'term': 'service', 'polarity': 'positive', 'from': '18', 'to': '25'}
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '36', 'to': '40'}
-aspectTerm: {'term': 'price', 'polarity': 'positive', 'from': '57', 'to': '62'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-aspectCategory: {'category': 'service', 'polarity': 'positive'}
-text: Unfortunately, the food was NOT something to get worked up about.
-aspectTerm: {'term': 'food', 'polarity': 'negative', 'from': '19', 'to': '23'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: The food is great and reasonably priced.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectTerm: {'term': 'priced', 'polarity': 'positive', 'from': '33', 'to': '39'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: I got enough reasons to keep coming back!!!
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Their calzones are horrific, bad, vomit-inducing, YUCK.
-aspectTerm: {'term': 'calzones', 'polarity': 'negative', 'from': '6', 'to': '14'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: A few tips: skip the turnip cake, roast pork buns and egg custards.
-aspectTerm: {'term': 'turnip cake', 'polarity': 'negative', 'from': '21', 'to': '32'}
-aspectTerm: {'term': 'roast pork buns', 'polarity': 'negative', 'from': '34', 'to': '49'}
-aspectTerm: {'term': 'egg custards', 'polarity': 'negative', 'from': '54', 'to': '66'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: The bagels are fabulous.
-aspectTerm: {'term': 'bagels', 'polarity': 'positive', 'from': '4', 'to': '10'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: I never had anything I didn't like here.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I definitely wouldn't go back.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'negative'}
-text: While the ambiance and atmosphere were great, the food and service could have been a lot better.
-aspectTerm: {'term': 'ambiance', 'polarity': 'positive', 'from': '10', 'to': '18'}
-aspectTerm: {'term': 'atmosphere', 'polarity': 'positive', 'from': '23', 'to': '33'}
-aspectTerm: {'term': 'food', 'polarity': 'negative', 'from': '50', 'to': '54'}
-aspectTerm: {'term': 'service', 'polarity': 'negative', 'from': '59', 'to': '66'}
-aspectCategory: {'category': 'ambience', 'polarity': 'positive'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-aspectCategory: {'category': 'service', 'polarity': 'negative'}
-text: Our waitress was sweet and accomodating, not overbearing.
-aspectTerm: {'term': 'waitress', 'polarity': 'positive', 'from': '4', 'to': '12'}
-aspectCategory: {'category': 'service', 'polarity': 'positive'}
-text: I have tried literally every restaurant on curry row.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
-text: My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.
-aspectTerm: {'term': 'fish', 'polarity': 'positive', 'from': '33', 'to': '37'}
-aspectTerm: {'term': 'rice', 'polarity': 'positive', 'from': '45', 'to': '49'}
-aspectTerm: {'term': 'seaweed', 'polarity': 'positive', 'from': '57', 'to': '64'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: I went to this restaurant with a woman that I met recently.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
-text: Good spreads, great beverage selections and bagels really tasty.
-aspectTerm: {'term': 'spreads', 'polarity': 'positive', 'from': '5', 'to': '12'}
-aspectTerm: {'term': 'beverage selections', 'polarity': 'positive', 'from': '20', 'to': '39'}
-aspectTerm: {'term': 'bagels', 'polarity': 'positive', 'from': '44', 'to': '50'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: The food options rule.
-aspectTerm: {'term': 'food options', 'polarity': 'positive', 'from': '4', 'to': '16'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Consistently good Japanese Tapas.
-aspectTerm: {'term': 'Japanese Tapas', 'polarity': 'positive', 'from': '18', 'to': '32'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: I went to Ruby Foo's after work with a group of 6.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
-text: The sushi was awful!
-aspectTerm: {'term': 'sushi', 'polarity': 'negative', 'from': '4', 'to': '9'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Now it's so crowded and loud you can't even talk to the person next to you.
-aspectCategory: {'category': 'ambience', 'polarity': 'negative'}
-text: Go, go, hurry, before everyone finds out about it.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I've been many time and have never been disappointed.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: The food was great.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Don't leave without trying One Night in Tokyo.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I would go back tho.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Definately check it out!!!
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: You cannot go wrong with this place.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I loving bringing friends here -and I do so every chance I get.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: With the theater 2 blocks away we had a delicious meal in a beautiful room.
-aspectTerm: {'term': 'meal', 'polarity': 'positive', 'from': '50', 'to': '54'}
-aspectTerm: {'term': 'room', 'polarity': 'positive', 'from': '70', 'to': '74'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'ambience', 'polarity': 'positive'}
-text: Even my Indian friend couldn't believe how good and tasty everything was.
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: We were not dissappointed in the least bit by this little gem.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: A pleasant surprise.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: This was a repeat visit and we'll definitely be back again.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I love the fact that the pizza tastes so good and is so cheap.
-aspectTerm: {'term': 'pizza', 'polarity': 'positive', 'from': '25', 'to': '30'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: Service was prompt, friendly and great.
-aspectTerm: {'term': 'Service', 'polarity': 'positive', 'from': '0', 'to': '7'}
-aspectCategory: {'category': 'service', 'polarity': 'positive'}
-text: OU MUST TRY THIS RESTAURANT.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: All pretty good.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Have eaten at Ginger House several times, and it's always good.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil.
-aspectTerm: {'term': 'lamb chop', 'polarity': 'positive', 'from': '16', 'to': '25'}
-aspectTerm: {'term': 'salads', 'polarity': 'positive', 'from': '52', 'to': '58'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Drawbacks: service is slow and they don't toast!
-aspectTerm: {'term': 'service', 'polarity': 'negative', 'from': '11', 'to': '18'}
-aspectCategory: {'category': 'service', 'polarity': 'negative'}
-text: It is by far my favorite restaurant in Brooklyn.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: I've been to Joya twice and I will never go again.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'negative'}
-text: A hearty two thumbs up!
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Great find!!!
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: If only they delivered, they'd make a mint!
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Was surprisingly disappointed.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'negative'}
-text: The prices were fantastic.
-aspectTerm: {'term': 'prices', 'polarity': 'positive', 'from': '4', 'to': '10'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: I'm told that it is open 24hrs which is good.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: What more could you want?
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Excellent experience.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Definitely a neighborhood favorite.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: The food is terrible and overall, I would have to say avoid at all costs.
-aspectTerm: {'term': 'food', 'polarity': 'negative', 'from': '4', 'to': '8'}
-aspectCategory: {'category': 'food', 'polarity': 'negative'}
-text: The food is prepared quickly and efficiently.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: The food is fresh, delicious, and reasonably priced.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectTerm: {'term': 'priced', 'polarity': 'positive', 'from': '45', 'to': '51'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: This is my favorite Italian restaurant in all of New York City.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Anyway, this is the last time I cross the williamsburg.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'negative'}
-text: I am bringing my whole family back next time.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: Love YUKA.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry.
-aspectTerm: {'term': 'waiter', 'polarity': 'neutral', 'from': '68', 'to': '74'}
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
-text: I have been coming to this neighborhood spot for years.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
-text: We will be back.
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.
-aspectTerm: {'term': 'outdoor atmosphere', 'polarity': 'positive', 'from': '4', 'to': '22'}
-aspectCategory: {'category': 'ambience', 'polarity': 'positive'}
-text: A large is $20, and toppings are about $3 each.
-aspectTerm: {'term': 'toppings', 'polarity': 'neutral', 'from': '20', 'to': '28'}
-aspectCategory: {'category': 'price', 'polarity': 'neutral'}
-text: The spicy tuna and salmon are the best we've ever had.
-aspectTerm: {'term': 'spicy tuna', 'polarity': 'positive', 'from': '4', 'to': '14'}
-aspectTerm: {'term': 'salmon', 'polarity': 'positive', 'from': '19', 'to': '25'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: A guaranteeed delight!
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'positive'}
-text: The food was very good, a great deal, and the place its self was great.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectTerm: {'term': 'place', 'polarity': 'positive', 'from': '46', 'to': '51'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'ambience', 'polarity': 'positive'}
-aspectCategory: {'category': 'price', 'polarity': 'positive'}
-text: The food is usually good but it certainly isn't a relaxing place to go.
-aspectTerm: {'term': 'food', 'polarity': 'positive', 'from': '4', 'to': '8'}
-aspectTerm: {'term': 'place', 'polarity': 'negative', 'from': '59', 'to': '64'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-aspectCategory: {'category': 'ambience', 'polarity': 'negative'}
-text: After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY.
-aspectTerm: {'term': 'dinner', 'polarity': 'neutral', 'from': '6', 'to': '12'}
-aspectTerm: {'term': 'dance floor', 'polarity': 'positive', 'from': '41', 'to': '52'}
-aspectCategory: {'category': 'ambience', 'polarity': 'positive'}
-text: The server was really cool and served us our food and drinks with a smile.
-aspectTerm: {'term': 'server', 'polarity': 'positive', 'from': '4', 'to': '10'}
-aspectTerm: {'term': 'served', 'polarity': 'positive', 'from': '31', 'to': '37'}
-aspectTerm: {'term': 'food', 'polarity': 'neutral', 'from': '45', 'to': '49'}
-aspectTerm: {'term': 'drinks', 'polarity': 'neutral', 'from': '54', 'to': '60'}
-aspectCategory: {'category': 'service', 'polarity': 'positive'}
-text: The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).
-aspectTerm: {'term': 'dishes', 'polarity': 'positive', 'from': '4', 'to': '10'}
-aspectTerm: {'term': 'lamb sausages', 'polarity': 'positive', 'from': '62', 'to': '75'}
-aspectTerm: {'term': 'sardines with biscuits', 'polarity': 'positive', 'from': '77', 'to': '99'}
-aspectTerm: {'term': 'large whole shrimp', 'polarity': 'positive', 'from': '101', 'to': '119'}
-aspectTerm: {'term': 'pistachio ice cream', 'polarity': 'positive', 'from': '135', 'to': '154'}
-aspectCategory: {'category': 'food', 'polarity': 'positive'}
-text: Went there for an office lunch.
-aspectTerm: {'term': 'office lunch', 'polarity': 'neutral', 'from': '18', 'to': '30'}
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
-text: We've only eaten in the restaurant once, but we have ordered many times for dinner.
-aspectTerm: {'term': 'dinner', 'polarity': 'neutral', 'from': '76', 'to': '82'}
-aspectCategory: {'category': 'anecdotes/miscellaneous', 'polarity': 'neutral'}
+All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!
+And really large portions.
+Go inside and you won't want to leave.
+Save yourself the time and trouble and skip this one!
+The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+Service was quick.
+Oh, don't even let me start with how expensive the bills were!
+Service is top notch.
+The best thing I tasted were the lambc hops.
+Overall I would recommend it and go back again.
+I've been here a couple of times and have not been impressed.
+Even though its good seafood, the prices are too high.
+In addition, the food is very good and the prices are reasonable.
+The food is great and authentic.
+I was at Rao's last Wed.
+I recommend the garlic shrimp, okra (bindi), and anything with lamb.
+The menu was impressive with selections ranging from a burger, to steak, to escargot.
+very good breads as well.
+Anyway, the food is good, the price is right and they have a decent wine list.
+The food was lousy -too sweet or too salty and the portions tiny.
+But the coconut rice was good.
+And the Tom Kha soup was pathetic.
+The food now is inconsistent.
+Try the crunchy tuna, it is to die for.
+Reasonable prices.
+Everything at Sala Thai is tasty and well-portioned.
+Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+Unfortunately, the food was NOT something to get worked up about.
+The food is great and reasonably priced.
+I got enough reasons to keep coming back!!!
+Their calzones are horrific, bad, vomit-inducing, YUCK.
+A few tips: skip the turnip cake, roast pork buns and egg custards.
+The bagels are fabulous.
+I never had anything I didn't like here.
+I definitely wouldn't go back.
+While the ambiance and atmosphere were great, the food and service could have been a lot better.
+Our waitress was sweet and accomodating, not overbearing.
+I have tried literally every restaurant on curry row.
+My goodness, everything from the fish to the rice to the seaweed was absolutely amazing.
+I went to this restaurant with a woman that I met recently.
+Good spreads, great beverage selections and bagels really tasty.
+The food options rule.
+Consistently good Japanese Tapas.
+I went to Ruby Foo's after work with a group of 6.
+The sushi was awful!
+My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.
+Now it's so crowded and loud you can't even talk to the person next to you.
+Go, go, hurry, before everyone finds out about it.
+I've been many time and have never been disappointed.
+The food was great.
+Don't leave without trying One Night in Tokyo.
+I would go back tho.
+Definately check it out!!!
+You cannot go wrong with this place.
+As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place.
+I loving bringing friends here -and I do so every chance I get.
+With the theater 2 blocks away we had a delicious meal in a beautiful room.
+Even my Indian friend couldn't believe how good and tasty everything was.
+We were not dissappointed in the least bit by this little gem.
+A pleasant surprise.
+This was a repeat visit and we'll definitely be back again.
+I love the fact that the pizza tastes so good and is so cheap.
+Service was prompt, friendly and great.
+OU MUST TRY THIS RESTAURANT.
+All pretty good.
+Have eaten at Ginger House several times, and it's always good.
+I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil.
+Drawbacks: service is slow and they don't toast!
+It is by far my favorite restaurant in Brooklyn.
+I've been to Joya twice and I will never go again.
+A hearty two thumbs up!
+Great find!!!
+If only they delivered, they'd make a mint!
+Was surprisingly disappointed.
+The prices were fantastic.
+I'm told that it is open 24hrs which is good.
+What more could you want?
+Excellent experience.
+Definitely a neighborhood favorite.
+The food is terrible and overall, I would have to say avoid at all costs.
+The food is prepared quickly and efficiently.
+The food is fresh, delicious, and reasonably priced.
+This is my favorite Italian restaurant in all of New York City.
+Anyway, this is the last time I cross the williamsburg.
+I am bringing my whole family back next time.
+Love YUKA.
+As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry.
+I have been coming to this neighborhood spot for years.
+We will be back.
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.
+A large is $20, and toppings are about $3 each.
+The spicy tuna and salmon are the best we've ever had.
+A guaranteeed delight!
+The food was very good, a great deal, and the place its self was great.
+The food is usually good but it certainly isn't a relaxing place to go.
+After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY.
+The server was really cool and served us our food and drinks with a smile.
+The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).
+Went there for an office lunch.
+We've only eaten in the restaurant once, but we have ordered many times for dinner.
