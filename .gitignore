@@ -131,3 +131,5 @@ dmypy.json
 *.bin
 *.txt
 *cached*
+
+state_dict/
