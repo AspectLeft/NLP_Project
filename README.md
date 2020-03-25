@@ -1,5 +1,5 @@
-# NLP_Project
- Course project of CSCI 544: Applied Natural Language Processing
+## Aspect Based Sentiment Analysis-ABSA
+ASC: given an aspect ("retina display") and a review sentence ("The retina display is great."), detect the polarity of that aspect (positive).
 
 ## How to run
 ```shell script
